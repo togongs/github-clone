@@ -1,0 +1,1 @@
+# 반응형 CSS (medium, small) 참고용
